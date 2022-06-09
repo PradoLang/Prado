@@ -10,9 +10,9 @@
 
 ### Intro
 
-Prado (dedicated to [@Valensce](https://github.com/Valensce)'s dog, shown above) is an esolang that translates to [BF](https://en.wikipedia.org/wiki/Brainfuck) to be interpreted. Prado files have the `.pdn` extension.
+Prado (dedicated to and named after [@Valensce](https://github.com/Valensce)'s dog, shown above) is an esolang that translates to [BF](https://en.wikipedia.org/wiki/Brainfuck) to be interpreted. Prado files have the `.pdn` extension.
 
-Until Prado is added to Linguist, the `JavaScript` percentage in this repository represents `Prado`, whose Linguist colour will be `#d0a92c` (gold). Note: this might not always appear on the repository page.
+Prado's Linguist colour will be `#d0a92c` (gold). Until Prado is added to Linguist, it will be represented by BF on this repository page.
 
 ### Interpreter
 
