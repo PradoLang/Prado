@@ -106,4 +106,4 @@ This can be translated into Prado as:
 More examples like this can be found in [the `/examples` directory](https://github.com/PradoLang/Prado/tree/main/examples).
 
 ### Contributing
-One of the biggest contributions you can give is creating your own Repository containing Prado code, so it can be added to Linguist. Please either Fork this Repository, or make your own code with the interpreter. If you have any questions, head over to [Discussions](https://github.com/PradoLang/Prado/discussions).
+One of the biggest contributions you can give is creating your own repository containing Prado code so it can be added to Linguist. Please either fork this repository or make your own code with the interpreter. If you have any questions, head over to [Discussions](https://github.com/PradoLang/Prado/discussions).
