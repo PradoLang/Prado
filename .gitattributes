@@ -1,2 +1,2 @@
 * text=auto
-**.pdn linguist-detectable=true linguist-language=Brainfuck
+examples/** linguist-detectable=true linguist-language=Brainfuck
